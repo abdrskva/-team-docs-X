@@ -2,13 +2,17 @@
 # Наш DevOps проект
 
 ## Описание проекта
-Здесь общее описание...
+Командный DevOps проект для практики Git workflow и работы с ветками.
 
 ## Команда
-Здесь список участников...
+Salima Abdyrasakova
+Zharkynai Itibaeva
 
 ## Стек технологий
-Здесь технологии...
+-Docker
+-Linux
 
 ## Инструкции по запуску
-Здесь шаги для запуска...
+1.git clone rep
+2.docker build -t app.
+3.docker run -p 8080:80 app
